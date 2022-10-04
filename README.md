@@ -1,6 +1,8 @@
 > **Note**
 > 
-> This README is produced by task uploader team, but I edited some parts.
+> This README is produced by Udacity team
+>
+> The main code is [`finding_donors.ipynb`](https://github.com/AbdelrahmanEnan/Udacity_Finding_Donors/blob/main/finding_donors.ipynb) file, and it has all necessary information to run the code. Also it include some theoritical background on some of related topics.
 
 
 # Supervised Learning
