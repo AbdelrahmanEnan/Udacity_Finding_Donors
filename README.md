@@ -1,3 +1,8 @@
+> **Note**
+> 
+> This README is produced by task uploader team, but I edited some parts.
+
+
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
