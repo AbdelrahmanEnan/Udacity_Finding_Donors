@@ -3,6 +3,8 @@
 > This README is produced by Udacity team
 >
 > The main code is [`finding_donors.ipynb`](https://github.com/AbdelrahmanEnan/Udacity_Finding_Donors/blob/main/finding_donors.ipynb) file, and it has all necessary information to run the code. Also it include some theoritical background on some of related topics.
+>
+> The task was to fill in blanks in the code to follow the right path of creating Machine Learning Model. Also there is some questions that needed to be answered to clarify the theoritical background of the topic
 
 
 # Supervised Learning
